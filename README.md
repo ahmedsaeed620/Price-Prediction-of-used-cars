@@ -20,7 +20,7 @@ This project aims to predict the costs of used cars, so that buyers can make an 
 
 ### Dataset Descrption
 
-Dataset used here is from a [Kaggle]('https://www.kaggle.com/datasets/avikasliwal/used-cars-price-prediction'). The dataset set contains features like Location, Manufacture details, car features such as Fuel type, Engine, and usage parameters. Below is the app in Working condition.
+Dataset used here is from a [Kaggle](https://www.kaggle.com/datasets/avikasliwal/used-cars-price-prediction). The dataset set contains features like Location, Manufacture details, car features such as Fuel type, Engine, and usage parameters. Below is the app in Working condition.
 
 * Size of training set: 6,019 records
   
