@@ -1,4 +1,4 @@
-# Price prediction of used cars
+# Price prediction of used cars           
 
 - [Price prediction of used cars](#price-prediction-of-used-cars)
   - [Demo](#demo)
@@ -9,6 +9,7 @@
     - [Best parametes](#best-parametes)
     - [Feature importances](#feature-importances)
   - [Technologies Used](#technologies-used)
+
 
 ## Demo
 
@@ -73,6 +74,11 @@ The data is trained on Linear Regression, Ridge, SVR, Decision Tree Regressor, R
 [![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
 [![](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com) 
 [![](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com)
+
+
+Link My accaount in Kaggle : [Ahmed elsaied](https://www.kaggle.com/ahmedsaied3122)
+
+Link My notebook in Kaggle : [Price prediction of used cars](https://www.kaggle.com/code/ahmedsaied3122/cars-price-prediction-with-accuracy-96-04)
 
 
 
