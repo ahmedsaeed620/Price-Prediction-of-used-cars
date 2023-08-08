@@ -12,6 +12,7 @@
 
 
 ## Demo
+<img src = "https://github.com/ahmedsaeed620/Price-prediction-of-used-cars/blob/main/images/datavis.png" width = 950 height = 500/>
 
 ## Overview
 This project aims to predict the costs of used cars, so that buyers can make an informed buying decision using data collected from various sources spread across various locations in India. We understand that cars are not just a means of transportation, but an expression of our personal taste and needs. The choice may be limited based on our budget, however, we can take advantage of the used car market to own the luxury brands we like at lower prices. By analyzing available data, we will provide forecasts about the cost of used cars based on brand, location, year, condition and other related factors. This will enable buyers to make an informed buying decision and choose the vehicle that best suits their needs and budget.
